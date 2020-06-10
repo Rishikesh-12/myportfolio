@@ -18,4 +18,4 @@ Deployed using netlify
 6. go to src/template and start editing. 
 * explore ./src to change 
 
-*use netlify for deployment
+* use netlify for deployment
