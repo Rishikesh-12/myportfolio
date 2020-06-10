@@ -15,4 +15,7 @@ Deployed using netlify
 3. $ git remove remote origin
 4. $ npm install
 5. $ npm start
-6. go to src/template and start editing. explore ./src to change 
+6. go to src/template and start editing. 
+* explore ./src to change 
+
+*use netlify for deployment
